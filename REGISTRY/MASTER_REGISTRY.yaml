@@ -1,0 +1,15 @@
+version: "1.0"
+registry: MASTER_REGISTRY
+
+# Cross-object index. Detailed records remain in their authoritative registries.
+assets: REGISTRY/ASSET_REGISTRY.yaml
+categories: REGISTRY/CATEGORY_REGISTRY.yaml
+articles: REGISTRY/ARTICLE_REGISTRY.yaml
+templates: REGISTRY/TEMPLATE_REGISTRY.yaml
+canva: REGISTRY/CANVA_REGISTRY.yaml
+
+relationships:
+  asset_to_canva: ASSET_REGISTRY.id -> CANVA_REGISTRY.internal_id
+  article_to_category: ARTICLE_REGISTRY.category_id -> CATEGORY_REGISTRY.id
+  article_to_template: ARTICLE_REGISTRY.template_id -> TEMPLATE_REGISTRY.id
+  article_to_asset: ARTICLE_REGISTRY.asset_ids -> ASSET_REGISTRY.id
