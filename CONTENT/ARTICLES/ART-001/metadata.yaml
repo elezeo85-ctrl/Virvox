@@ -1,0 +1,13 @@
+article_id: ART-001
+title: ""
+status: draft
+version: "0.1"
+category_id: null
+template_id: null
+cover_asset_id: null
+content_file: CONTENT/ARTICLES/ART-001/article.md
+sources_file: CONTENT/ARTICLES/ART-001/sources.yaml
+assets_file: CONTENT/ARTICLES/ART-001/assets.yaml
+tags: []
+created: ""
+updated: ""
