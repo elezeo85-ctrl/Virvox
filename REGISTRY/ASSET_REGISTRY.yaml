@@ -1,0 +1,26 @@
+version: "1.0"
+registry: ASSET_REGISTRY
+assets:
+  - id: BA-CAT-001
+    name: Category Master
+    type: category_asset
+    status: approved
+    version: "1.0"
+    canva_id: DAHQDbNq37k
+    brand_book: BRAND/BRAND_BOOK/05_CATEGORY_SYSTEM.md
+
+  - id: BA-LOGO-001
+    name: Monogram VX
+    type: logo
+    status: pending_visual_confirmation
+    version: "1.0"
+    canva_id: DAHQGdFhl5k
+    brand_book: BRAND/BRAND_BOOK/03_LOGO.md
+
+  - id: BA-LOGO-002
+    name: Full Logo with Descriptor
+    type: logo
+    status: approved
+    version: "1.0"
+    canva_id: DAHQIOXVfks
+    brand_book: BRAND/BRAND_BOOK/03_LOGO.md
