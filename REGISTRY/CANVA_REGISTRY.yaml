@@ -1,0 +1,25 @@
+version: "1.0"
+registry: CANVA_REGISTRY
+entries:
+  - internal_id: BA-CAT-001
+    canva_id: DAHQDbNq37k
+    type: category_asset
+    status: approved
+    source: Canva
+
+  - internal_id: BA-LOGO-001
+    canva_id: DAHQGdFhl5k
+    type: logo
+    status: pending_visual_confirmation
+    source: Canva
+
+  - internal_id: BA-LOGO-002
+    canva_id: DAHQIOXVfks
+    type: logo
+    status: approved
+    source: Canva
+
+rules:
+  - Never invent or guess Canva IDs.
+  - Verify a Canva ID before changing an asset to approved.
+  - GitHub stores the ID and metadata; Canva stores the editable design.
