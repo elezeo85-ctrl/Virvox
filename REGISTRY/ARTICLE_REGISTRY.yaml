@@ -1,0 +1,7 @@
+version: "1.0"
+registry: ARTICLE_REGISTRY
+articles: []
+
+# Article records are intentionally kept compact.
+# Full article text is stored in CONTENT/ARTICLES/ART-XXX/article.md.
+# Each article package may also contain metadata.yaml, sources.yaml, and assets.yaml.
