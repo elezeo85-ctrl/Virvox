@@ -1,0 +1,34 @@
+version: "1.0"
+registry: CATEGORY_REGISTRY
+master_asset_id: BA-CAT-001
+categories:
+  - id: CAT-001
+    name: Разбор мифов
+    status: approved
+  - id: CAT-002
+    name: Взгляд женщины
+    status: approved
+  - id: CAT-003
+    name: Мужской взгляд
+    status: approved
+  - id: CAT-004
+    name: Из жизни
+    status: approved
+  - id: CAT-005
+    name: Практика
+    status: approved
+  - id: CAT-006
+    name: Исследование
+    status: approved
+  - id: CAT-007
+    name: Размышление
+    status: approved
+  - id: CAT-008
+    name: Диалог
+    status: approved
+  - id: CAT-009
+    name: Ответы на вопросы
+    status: approved
+  - id: CAT-010
+    name: Мудрые мысли
+    status: approved
