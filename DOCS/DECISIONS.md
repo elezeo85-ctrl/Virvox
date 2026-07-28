@@ -41,3 +41,9 @@ A dedicated `DOCS/` directory is part of the project architecture and contains p
 **Status:** Approved
 
 Approved knowledge and assets are not silently deleted. Changes are versioned and documented so prior states remain recoverable through Git history.
+
+## D-008 — YAML as canonical registry format
+
+**Status:** Approved
+
+All authoritative VIRVOX registries use YAML (`.yaml`) as their canonical structured data format. Markdown files in `REGISTRY/` are reserved for navigation, documentation, instructions, and explanations. Long-form article text is stored separately in article packages under `CONTENT/ARTICLES/ART-XXX/article.md` and is referenced by `ARTICLE_REGISTRY.yaml`.
