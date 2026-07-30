@@ -1,6 +1,8 @@
-# VIRVOX Documentation Index — Merged Draft
+# VIRVOX Documentation Index
 
-> Temporary merged index for validation. This file will replace `DOCS/00_INDEX.md` only after validation.
+## Purpose
+
+This index is the entry point to the VIRVOX knowledge and governance system.
 
 ## AI entry point
 
