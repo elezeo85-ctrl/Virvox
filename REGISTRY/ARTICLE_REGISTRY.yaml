@@ -1,6 +1,15 @@
 version: "1.0"
 registry: ARTICLE_REGISTRY
-articles: []
+articles:
+  - article_id: ART-001
+    title: "Женщина не устает от работы. Она устает от жизни, в которой нет опоры"
+    status: draft
+    version: "0.1"
+    category_id: CAT-002
+    content_file: CONTENT/ARTICLES/ART-001/article.md
+    metadata_file: CONTENT/ARTICLES/ART-001/metadata.yaml
+    sources_file: CONTENT/ARTICLES/ART-001/sources.yaml
+    assets_file: CONTENT/ARTICLES/ART-001/assets.yaml
 
 # Article records are intentionally kept compact.
 # Full article text is stored in CONTENT/ARTICLES/ART-XXX/article.md.
