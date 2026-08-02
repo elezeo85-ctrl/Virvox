@@ -1,6 +1,12 @@
 version: "1.0"
 registry: TEMPLATE_REGISTRY
-templates: []
+templates:
+
+  - id: TPL-001
+    name: VIRVOX Article Cover Master
+    type: article_cover
+    status: draft
+    source: DOCS/ARTICLE_COVER_MASTER_SPEC.md
 
 # Templates will be registered here with stable TPL-XXX IDs.
 # A template may reference approved brand assets, category IDs, and production rules.
