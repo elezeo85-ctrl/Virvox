@@ -26,6 +26,9 @@ This document is the passport for the project documentation and top-level system
 | `DOCS/PROJECT_MAP.md` | Ecosystem map | Cross-system relationships |
 | `DOCS/ARCHITECTURE.md` | Architecture | Hierarchy and dependencies |
 | `DOCS/FILE_REFERENCE.md` | File passport | This document |
+| `DOCS/REPOSITORY_STRUCTURE.md` | Repository structure map | Defines the expected physical repository tree |
+| `DOCS/REPOSITORY_STRUCTURE_RULES.md` | Repository structure rules | Defines mandatory structural governance rules |
+| `DOCS/REPOSITORY_STRUCTURE_UPDATE.md` | Repository structure update procedure | Defines the procedure for synchronizing structure documentation with the repository |
 | `DOCS/KNOWLEDGE_BASE.md` | Durable knowledge | Lessons and standards |
 | `DOCS/DECISIONS.md` | Decision log | Important approved decisions |
 | `DOCS/ROADMAP.md` | Development plan | Future work |
