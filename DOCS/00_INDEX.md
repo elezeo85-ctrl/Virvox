@@ -42,6 +42,7 @@ This index is the entry point to the VIRVOX knowledge and governance system.
 - `ID_RULES.md` — stable identifier rules.
 - `CONTENT_WORKFLOW.md` — content creation, approval, registration, and rendering workflow.
 - `ARTICLE_TEMPLATE.md` — canonical article object and editorial structure.
+- `ARTICLE_COVER_WORKFLOW.md` — practical workflow for creating, checking, registering, and linking article covers.
 - `REGISTRY_STRUCTURE.md` — registry architecture and relationships.
 
 ## Related top-level systems
