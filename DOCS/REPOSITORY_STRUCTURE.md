@@ -9,6 +9,7 @@ This document defines the canonical physical structure of the VIRVOX repository.
 - `REPOSITORY_STRUCTURE_RULES.md` defines **the rules for creating, moving, renaming, or deleting structural elements**.
 - `REPOSITORY_STRUCTURE_UPDATE.md` defines **the required procedure for updating this document whenever the repository changes**.
 - `ARTICLE_TEMPLATE.md` defines the canonical internal structure of an article object.
+- `ARTICLE_COVER_WORKFLOW.md` defines the practical production workflow for creating an article cover.
 - `BRAND/BRAND_BOOK/09_GITHUB_STRUCTURE.md` defines the Brand Book's relationship to the repository architecture.
 
 ## Canonical top-level tree
@@ -50,6 +51,7 @@ DOCS/
 ├── ID_RULES.md
 ├── CONTENT_WORKFLOW.md
 ├── ARTICLE_TEMPLATE.md
+├── ARTICLE_COVER_WORKFLOW.md
 └── REGISTRY_STRUCTURE.md
 ```
 
