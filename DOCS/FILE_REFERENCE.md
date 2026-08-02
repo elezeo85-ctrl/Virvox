@@ -30,6 +30,7 @@ This document is the passport for the project documentation and top-level system
 | `DOCS/REPOSITORY_STRUCTURE_RULES.md` | Repository structure rules | Defines mandatory structural governance rules |
 | `DOCS/REPOSITORY_STRUCTURE_UPDATE.md` | Repository structure update procedure | Defines the procedure for synchronizing structure documentation with the repository |
 | `DOCS/ARTICLE_COVER_WORKFLOW.md` | Article cover production workflow | Defines the practical sequence for creating, checking, registering, and linking article covers |
+| `DOCS/ARTICLE_COVER_MASTER_SPEC.md` | Canonical specification for VIRVOX Article Cover Master | Defines TPL-001 article cover architecture |
 | `DOCS/KNOWLEDGE_BASE.md` | Durable knowledge | Lessons and standards |
 | `DOCS/DECISIONS.md` | Decision log | Important approved decisions |
 | `DOCS/ROADMAP.md` | Development plan | Future work |
