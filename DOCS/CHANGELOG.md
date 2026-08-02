@@ -40,3 +40,11 @@
 - Updated architecture documentation to distinguish governance/documentation from the production flow.
 - Updated file reference to document the canonical documentation set and authoritative registry files.
 - Documented the relationship between rules, registries, templates, content objects, and outputs.
+
+## 2026-08-03
+
+### Added
+
+- `DOCS/ARTICLE_COVER_MASTER_SPEC.md` — canonical specification for VIRVOX Article Cover Master (TPL-001).
+- Registered TPL-001 in `REGISTRY/TEMPLATE_REGISTRY.yaml`.
+- Connected article cover specification with documentation index and file reference.
