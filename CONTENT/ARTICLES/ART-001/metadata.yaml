@@ -1,13 +1,19 @@
 article_id: ART-001
-title: ""
+title: "Женщина не устает от работы. Она устает от жизни, в которой нет опоры"
 status: draft
 version: "0.1"
-category_id: null
+category_id: CAT-002
 template_id: null
 cover_asset_id: null
 content_file: CONTENT/ARTICLES/ART-001/article.md
 sources_file: CONTENT/ARTICLES/ART-001/sources.yaml
 assets_file: CONTENT/ARTICLES/ART-001/assets.yaml
-tags: []
-created: ""
-updated: ""
+tags:
+  - женщина
+  - работа
+  - опора
+  - отношения
+  - партнерство
+  - женская энергия
+created: "2026-08-02"
+updated: "2026-08-02"
