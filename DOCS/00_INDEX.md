@@ -8,6 +8,12 @@ This index is the entry point to the VIRVOX knowledge and governance system.
 
 - `00_AI_START_HERE.md` — operational entry point and required reading order for AI work.
 
+## Repository structure
+
+- `REPOSITORY_STRUCTURE.md` — canonical physical repository structure.
+- `REPOSITORY_STRUCTURE_RULES.md` — mandatory rules for structural governance.
+- `REPOSITORY_STRUCTURE_UPDATE.md` — procedure for synchronizing repository changes with the canonical structure.
+
 ## Project constitution
 
 - `PROJECT_MANIFEST.md` — mission, principles, and foundational architecture.
